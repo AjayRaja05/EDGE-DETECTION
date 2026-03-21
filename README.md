@@ -1,4 +1,3 @@
-# Experiment-6
 # EDGE-DETECTION
 ### Developed by: AJAYRAJA RATHINAM T
 ### Register Number: 212224240006
